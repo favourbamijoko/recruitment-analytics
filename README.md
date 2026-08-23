@@ -106,6 +106,7 @@ Employee referrals performed strongly on both hiring rate and offer acceptance r
 The differences in offer acceptance rates across sources also show why recruitment analysis should look beyond application volume and consider candidate outcomes at later stages.
 
 ## Dashboard
+![Recruitment Analytics Dashboard](recruitment-dashboard.png)
 
 The Power BI dashboard contains three pages:
 
